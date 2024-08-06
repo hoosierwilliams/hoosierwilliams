@@ -1,4 +1,4 @@
-Hi, I'm Chris. 27-year-old entrepreneur learning to code. I love music, art, design, travel, and sports.
+Hi, I'm Chris.
 
 <!---
 hoosierwilliams/hoosierwilliams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
